@@ -1,0 +1,21 @@
+
+/* .box1_1{
+    display: inline-block;
+} */
+/* .box1_1{
+    display: inline-flex;
+} */
+.box1_1{
+    display: flex;
+}
+body{
+   background-image: url(/207803630_1994282847390736_4602466611007525290_n.jpg);
+   background-position: 50%;
+   background-size: 100px;
+   background-repeat: no-repeat;
+
+}
+/* 
+display : flex  chỉ tác dụng với thẻ div bố
+display : inline-flex : nó sẽ có tác dụng với cả thẻ div bố và thẻ div con
+display: inline-block : nó sẽ có tác dụng với các thẻ div cùng hàng*/
